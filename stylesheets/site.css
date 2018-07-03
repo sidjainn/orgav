@@ -1,0 +1,58 @@
+.mdl-layout__header img {
+  height: 60%;
+  padding-right: 30px;
+  position: relative;
+  margin-left: -62px; }
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 2px; }
+
+.node text {
+  font: 10px sans-serif; }
+
+.wide-card.mdl-card {
+  width: auto;
+  max-width: none;
+  height: auto;
+  max-height: none;
+  margin-bottom: 16px; }
+
+.mdl-card svg {
+  display: block;
+  margin: auto; }
+
+@media (max-width: 872px) {
+  .mdl-card__title-text {
+    font-size: 20px !important; } }
+@media (max-width: 600px) {
+  .legend {
+    font: 16px serif !important; } }
+@media (max-width: 450px) {
+  .legend {
+    font: 18px serif !important; } }
+.mdl-button.capitalize {
+  text-transform: capitalize !important;
+  cursor: vertical-text !important; }
+
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  width: auto;
+  min-width: 60px;
+  height: auto;
+  line-height: 15px;
+  padding: 6px;
+  font: 12px sans-serif;
+  background: black;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+  color: white; }
+
+.legend {
+  font: 14px serif; }
+
+.mdl-button {
+  margin: 0 8px !important; }
